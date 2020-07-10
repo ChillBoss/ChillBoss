@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tavva-prudhvith-68b790130/)](https://www.linkedin.com/in/tavva-prudhvith-68b790130/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prudhvithtavva@gmail.com)](mailto:prudhvithtavva@gmail.com)
 
-## 
+## Identify - Define - Assess - Build - Deploy
 
 - 🔭 Currently working on Automation in Data Science Projects.
 - 🌱 Currently learning BI Tools,Advanced NLP.
